@@ -1,7 +1,7 @@
 # Cyber_Hacker Theme for Bruce Firmware
 
 [![Cyber_Hacker Theme](https://img.shields.io/badge/Theme-Cyber__Hacker-blue?style=for-the-badge)](https://github.com/CreeperRick/Cyber_Hacker)
-[![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-green?style=for-the-badge)](https://github.com/bruce-firmware/bruce)
+[![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-green?style=for-the-badge)](https://https://bruce.computer/)
 [![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge)](https://github.com/CreeperRick/Cyber_Hacker/releases)
 [![Downloads](https://img.shields.io/badge/Downloads-100+-brightgreen?style=for-the-badge)](https://github.com/CreeperRick/Cyber_Hacker/releases)
 
