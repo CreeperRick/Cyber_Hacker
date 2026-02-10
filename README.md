@@ -18,7 +18,6 @@
 - 💚 Custom LED effects with configurable speed and direction
 - 🔤 Hacker-style typography with high contrast visibility
 - 🎮 Gaming-optimized layout with clean, minimal borders
-- 🌓 Dark background (#000000) for optimal OLED display performance
 - 🔧 Complete theme configuration with all Bruce Firmware features supported
 
 ## Installation
