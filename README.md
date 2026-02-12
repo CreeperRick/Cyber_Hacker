@@ -10,7 +10,6 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
 ![Size](https://img.shields.io/badge/Size-825KB-blue?style=flat-square)
 
-#### 🎨 **Preview**
 
 <div align="center">
  
