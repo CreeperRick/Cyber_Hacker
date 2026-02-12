@@ -5,7 +5,6 @@
 ## 🔥 Featured Themes
 
 ### 💻 Cyber_Hacker
-*Enter the matrix with this neon-drenched terminal aesthetic*
 
 [![Download Cyber_Hacker](https://img.shields.io/badge/⬇️_Download-Cyber_Hacker-00ff00?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=black)](https://github.com/CreeperRick/Cyber_Hacker/releases/download/Release/Cyber_Hacker.zip)
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
