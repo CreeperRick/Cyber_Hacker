@@ -1,4 +1,4 @@
-# 🧢 Bruce Apps & Themes
+# 🦈 Bruce Apps & Themes
 
 ---
 
