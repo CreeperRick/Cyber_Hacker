@@ -6,7 +6,7 @@
 
 ### 💻 Cyber_Hacker
 
-[![Download Cyber_Hacker](https://img.shields.io/badge/⬇️_Download-Cyber_Hacker-00ff00?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=black)](https://github.com/CreeperRick/Cyber_Hacker/releases/download/Release/Cyber_Hacker.zip)
+[![Download Cyber_Hacker](https://img.shields.io/badge/Download-Cyber_Hacker-00ff00?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=black)](https://github.com/CreeperRick/Cyber_Hacker/releases/download/Release/Cyber_Hacker.zip)
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
 ![Size](https://img.shields.io/badge/Size-825KB-blue?style=flat-square)
 
