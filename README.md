@@ -8,6 +8,8 @@
 
 [![Download Cyber_Hacker](https://img.shields.io/badge/Download-Cyber_Hacker-00ff00?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=black)](https://github.com/CreeperRick/BruceStore/releases/download/2.0.0/Cyber.Hacker.zip)
 ![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen?style=flat-square)
+[![Download Cyber_Hacker](https://img.shields.io/badge/Download-Epstein-00ff00?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=black)](https://github.com/CreeperRick/BruceStore/releases/download/2.0.0/Cyber.Hacker.zip)
+![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen?style=flat-square)
 
 
 <div align="center">
